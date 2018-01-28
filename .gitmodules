@@ -1,0 +1,6 @@
+[submodule "sedumi"]
+	path = sedumi
+	url = https://github.com/andrewssobral/sedumi.git
+[submodule "sdpt3"]
+	path = sdpt3
+	url = https://github.com/andrewssobral/sdpt3.git
